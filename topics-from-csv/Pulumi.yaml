@@ -1,0 +1,4 @@
+name: ccloud-topic
+runtime:
+  name: python
+description: A Python Pulumi program to create ccloud topics
